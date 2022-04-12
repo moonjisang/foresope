@@ -41,5 +41,3 @@ cv2.imshow('img', img)
 cv2.imshow('result', result)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-#으아아아아아아
